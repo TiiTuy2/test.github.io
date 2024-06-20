@@ -17,11 +17,11 @@
         <div class="hidden md:flex md:justify-around md:items-center md:h-full">
           <div class="text-xl font-bold">Designer</div>
           <nav class="flex gap-10 text-xl font-semibold">
-            <a href="#" class="block py-2">Home</a>
-            <a href="#" class="block py-2">About</a>
-            <a href="#" class="block py-2">Services</a>
-            <a href="#" class="block py-2">Blog's</a>
-            <a href="#" class="block py-2">Contact</a>
+            <a href="#" class="block py-2 hover:text-red-500 duration-150">Home</a>
+            <a href="#" class="block py-2 hover:text-red-500 duration-150">About</a>
+            <a href="#" class="block py-2 hover:text-red-500 duration-150">Services</a>
+            <a href="#" class="block py-2 hover:text-red-500 duration-150">Blog's</a>
+            <a href="#" class="block py-2 hover:text-red-500 duration-150">Contact</a>
           </nav>
         </div>
         <!-- Mobile Nav Links (Visible when toggled open) -->
